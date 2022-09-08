@@ -9,10 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tiptap-pro/extension-details": "^2.0.0-beta.5",
+    "@tiptap-pro/extension-details-content": "^2.0.0-beta.5",
+    "@tiptap-pro/extension-details-summary": "^2.0.0-beta.2",
+    "@tiptap/extension-placeholder": "^2.0.0-beta.53",
     "@tiptap/react": "^2.0.0-beta.115",
     "@tiptap/starter-kit": "^2.0.0-beta.192",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "sass": "^1.54.9"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
